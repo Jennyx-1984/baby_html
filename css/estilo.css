@@ -1,0 +1,51 @@
+
+
+
+.pre{
+    margin-left:50px;
+}
+
+
+button{
+    width:100px;
+    height:20px;
+    
+}
+
+.like:hover{
+    background-color: green;
+}
+
+.dislike:hover{
+    background-color: red;
+}
+
+
+.femcoders:hover{
+    background-color: pink;
+}
+
+.listas{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap:4rem;
+    margin-top:0;
+
+}
+
+.menos-grande{
+    font-size:1.8rem;
+}
+.mas-grande{
+    font-size: 2rem;
+}
+
+
+.punto-blanco{
+    list-style-type:circle; 
+}
+
+.cuadrado{
+    list-style-type:square;
+}
